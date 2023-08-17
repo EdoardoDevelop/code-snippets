@@ -70,6 +70,11 @@
   	"icon": "https://ps.w.org/wordfence/assets/icon.svg"
   },
   {
+  	"name": "WP Hide & Security Enhancer",
+  	"slug": "wp-hide-security-enhancer",
+  	"icon": "https://ps.w.org/wp-hide-security-enhancer/assets/icon-128x128.png"
+  },
+  {
   	"name": "Mailchimp",
   	"slug": "mailchimp-for-wp",
   	"icon": "https://ps.w.org/mailchimp-for-wp/assets/icon-128x128.png"
